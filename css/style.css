@@ -9,15 +9,16 @@ audio{
 .soundboard{
 	margin-top:0}
 .soundboard li{
-	width:50%;
-	margin-bottom:20px;
-	margin-bottom:2rem}
+	width:32%;
+	margin:2px;
+        }
 .soundboard li a{
 	display:block;
 	background-repeat:no-repeat;
 	background-position:center center;
 	max-width:100%;
-	text-align:center}
+	text-align:center;
+        font-size:150%}
 .soundboard li a img{
 	max-width:100%}
 .soundboard li a:hover{
